@@ -12,8 +12,8 @@ struct FactModel{
         "Ants stretch when they wake up in the morning.",
         "Ostriches can run faster than horses.",
         "Olympic gold medals are actually made mostly of silver.",
-        "You are born with 300 bones; by the time you are an adult you will have 206.", //This is a test comment for gitHub
-        "It takes about 8 minutes for light from the Sun to reach Earth.",
+        "You are born with 300 bones; by the time you are an adult you will have 206.", //I changed This
+        "It takes about 8 minutes for light from the Sun to reach Earth.", //and I added this one
         "Some bamboo plants can grow almost a meter in just one day.",
         "The state of Florida is bigger than England.",
         "Some penguins can leap 2-3 meters out of the water.",
